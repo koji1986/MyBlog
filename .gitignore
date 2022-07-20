@@ -49,3 +49,4 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 
+/bin/
